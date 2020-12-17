@@ -3,4 +3,4 @@ go get golang.org/x/mobile/cmd/gomobile
 
 gomobile init
 
-gomobile build -target=android
+gomobile bind -target=android .
